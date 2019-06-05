@@ -27,43 +27,43 @@ This module contains built-in functions which are automatically available in all
     - char or string
 
 ## operators
-> Arithmetic Operators
+- Arithmetic Operators
 >> +, -, *, /, %, //, **
-> Comparison (Relational) Operators
+- Comparison (Relational) Operators
 >> ==, !=, <>, >, <, <=, >=
-> Assignment Operators
+- Assignment Operators
 >> +=, -=, *=, /=, //=, %=, **=
-> Logical Operators
+- Logical Operators
 >> and, or, not
-> Bitwise Operators
+- Bitwise Operators
 >> &, |, ^, ~, <<, >>
-> Membership Operators
+- Membership Operators
 >> in, not in
-> Identity Operators
+- Identity Operators
 >> is, is not
 
 ## control-statements
-> if
-> if..else
-> elif
+- if
+- if..else
+- elif
 
 ## string-function
 
 ## list-function
->> cmp(list1, list2)
->> len(list)
->> max(list)
->> min(list)
->> list(seq)
->> list.append(obj)
->> list.count(obj)
->> list.extend(seq)
->> list.index(obj)
->> list.insert(index, obj)
->> list.pop(obj=list[-1])
->> list.remove(obj)
->> list.reverse()
->> list.sort()
+- cmp(list1, list2)
+- len(list)
+- max(list)
+- min(list)
+- list(seq)
+- list.append(obj)
+- list.count(obj)
+- list.extend(seq)
+- list.index(obj)
+- list.insert(index, obj)
+- list.pop(obj=list[-1])
+- list.remove(obj)
+- list.reverse()
+- list.sort()
 
 
 ## intro-tuple-dict-set

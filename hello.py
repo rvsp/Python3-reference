@@ -1,0 +1,1 @@
+print('simple  hello message')

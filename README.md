@@ -70,4 +70,4 @@ This module contains built-in functions which are automatically available in all
 
 ## function-def-call
 
-[for above two topics refer](https://docs.google.com/document/d/1HhEFDPguSSXNCkqRTJKvhTUgidqlzWXp-dReM_8m-V0/edit)
+[for above topic's basic program click here](https://docs.google.com/document/d/1HhEFDPguSSXNCkqRTJKvhTUgidqlzWXp-dReM_8m-V0/edit)

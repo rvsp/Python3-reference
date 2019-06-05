@@ -14,6 +14,7 @@
 ## _builtin_ Module
 
 This module contains built-in functions which are automatically available in all Python modules and it's not necessary to import. Python code does that for us.
+[Sample code](https://github.com/trainervenkat/ksr-python/blob/60080c4f6dcddf8338e7244c1153ce0cc17df4b4/1_builtin.py#L1)
     - apply function
     - __import__ function to get a named function
     - reload function

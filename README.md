@@ -1,6 +1,6 @@
-## Python Training
+# Python Training
 
-# Topics to be covered:
+## Topics to be covered:
 1. _builtin_ module
 2. Data types
 3. Operators

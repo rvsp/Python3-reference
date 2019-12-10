@@ -21,28 +21,6 @@ x=''.join(l for l in sh if l not in vowel)
 print(x.strip())
 
 
-# matrix pattern
-x=int(input())
-for i in range(0,x):
-    for j in range(0,x):
-        if i==j:
-            print('1',sep=' ',end=' ')
-        else:
-            print('0',sep=' ',end=' ')
-    print()
-
-# * pattern
-n=int(input())
-for i in range(0,6):
-    for j in range(0,n):
-        print(end=' ')
-    n-=2
-    for j in range(0, i+1):
-        print('* ', end='')
-    print()
-
-
-
 s='he3l4lo5 world'
 d={'num':0,'str':0}
 for i in s:
@@ -62,7 +40,7 @@ for a,b in l:
 print(d)
 
 
-sorted for dict
+# sorted for dict
 for k,v in sorted(d.items()):
     print(k,v)
 
@@ -76,16 +54,6 @@ d={'d':43,'c':66,'b':23,'a':45}
 from heapq import nlargest
 l= nlargest(1,d,key=d.get)
 print(l)
-
-n=int(input())
-for i in range(n):
-    for j in range(i):
-        print('* ', end='')
-    print('')
-for i in range(n,0,-1):
-    for j in range(i):
-        print('* ', end='')
-    print('')
 
 
 

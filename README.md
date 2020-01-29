@@ -6,7 +6,7 @@
 4.  [Conditional Statements]()
 5.  [Control Statements - (Loops)]()
 6.  [Strings](https://github.com/rvsp/Python3-reference/blob/master/strings.py)
-7.  [List and List Comprehension]()
+7.  [List and List Comprehension](https://github.com/rvsp/Python3-reference/tree/master/Lists)
 8.  [Tuple]()
 9.  [Dictionary]()
 10. [Sets]()

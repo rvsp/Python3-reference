@@ -1,4 +1,5 @@
 import numpy as np
+
 def nxnMatrix(n):
     x = np.zeros((n, n), dtype = int) 
     x[1::2, ::2] = 1
@@ -44,3 +45,18 @@ for i in range(0,x):
         else:
             print('0',sep=' ',end=' ')
     print()
+
+
+
+def is_valid_parenthese(str1):
+    stack, pchar = [], {"(": ")", "{": "}", "[": "]"}
+    for parenthese in str1:
+        if parenthese in pchar:
+            stack.append(parenthese)
+        elif len(stack) == 0 or pchar[stack.pop()] != parenthese:
+            return False
+    return len(stack) == 0
+
+print(is_valid_parenthese("(){}[]"))
+print(is_valid_parenthese("()[{)}"))
+print(is_valid_parenthese("()"))

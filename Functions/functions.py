@@ -37,6 +37,16 @@ def factorial(n):
 factorial(5)
 
 
+def calc(n):
+    return n*n
+
+num = (1,2,3,4,5)
+result= map(calc, num)
+print('Result',list(result))
+
+
+result1= map(lambda x: x*x, num)
+print('Result',list(result1))
 
 
 def convert(list):

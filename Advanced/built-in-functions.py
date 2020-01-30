@@ -5,9 +5,6 @@ Topic: Built-In Functions
 
 import sys
 
-# https://www.programiz.com/python-programming/methods/built-in/bin
-
-
 # apply function
 def function(a, b):
     print( a, b)

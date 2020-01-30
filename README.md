@@ -1,8 +1,8 @@
 # Python Training
 
 1.  [Introduction to Python](https://github.com/rvsp/Python3-reference/blob/master/1_basics.py)
-2.  [Data Different Modes in Python]()
-3.  [Variables and Operators in Python]()
+2.  [Variables and Types in Python]()
+3.  [Operators in Python]()
 4.  [Conditional Statements]()
 5.  [Control Statements - (Loops)]()
 6.  [Strings](https://github.com/rvsp/Python3-reference/blob/master/strings.py)

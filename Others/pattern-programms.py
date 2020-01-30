@@ -1,3 +1,9 @@
+'''
+Owner: Venkatasubramanian
+Topic: General & Pattern Programs
+'''
+
+
 import numpy as np
 
 def nxnMatrix(n):

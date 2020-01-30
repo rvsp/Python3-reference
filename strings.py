@@ -1,3 +1,8 @@
+'''
+Owner: Venkatasubramanian
+Topic: Strings
+'''
+
 from string import maketrans
 import string
 
@@ -36,6 +41,8 @@ print(s.rstrip('*'))           # Removes Trailing Characters
 print(s.lstrip('*'))           # Removes Leading Characters
 print(s1.rjust(100,'^'))       # returns right-justified string of given width
 print(s1.ljust(50,'#'))        # returns left-justified string of given width
+print(s.split())               # split and returns value in list type
+
 
 i ,o = 'aeiou', '12345'
 tr=maketrans(i,o)              # returns a translation table

@@ -1,3 +1,8 @@
+'''
+Owner: Venkatasubramanian
+Topic: args & kargs in functions
+'''
+
 def sum(a, b):
     print("sum is", a+b)
 

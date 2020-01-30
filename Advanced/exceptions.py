@@ -1,16 +1,22 @@
-# EOFError
-# FloatingPointError
-# ImportError
-# MemoryError
-# KeyboardInterrupt
-# KeyError
-# OSError
-# SyntaxError
-# SystemError
-# SystemExit
-# TypeError
-# ValueError
-# ZeroDivisionError
+'''
+Owner: Venkatasubramanian
+Topic: Exceptions
+'''
+'''
+EOFError
+FloatingPointError
+ImportError
+MemoryError
+KeyboardInterrupt
+KeyError
+OSError
+SyntaxError
+SystemError
+SystemExit
+TypeError
+ValueError
+ZeroDivisionError
+'''
 
 try:
     a=5

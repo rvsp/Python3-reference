@@ -1,3 +1,8 @@
+'''
+Owner: Venkatasubramanian
+Topic: Regular expression
+'''
+
 import re
 s = "tim email is tim@somehost.com"
 match = re.search(r'[\w.-]+@[\w.-]+', s)

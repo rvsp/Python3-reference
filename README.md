@@ -5,7 +5,7 @@
 3.  [Operators in Python](https://github.com/rvsp/Python3-reference/blob/master/3_operators.py)
 4.  [Conditional Statements](https://github.com/rvsp/Python3-reference/blob/master/4_conditional-statements.py)
 5.  [Looping and Control Statements](https://github.com/rvsp/Python3-reference/blob/master/5_loops-control.py)
-6.  [Strings](https://github.com/rvsp/Python3-reference/blob/master/strings.py)
+6.  [Strings](https://github.com/rvsp/Python3-reference/blob/master/6_strings.py)
 7.  [List and List Comprehension](https://github.com/rvsp/Python3-reference/tree/master/Lists)
 8.  [Tuple]()
 9.  [Dictionary]()

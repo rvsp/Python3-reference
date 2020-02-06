@@ -18,3 +18,4 @@
 16. [Files]()
 17. [Others](https://github.com/rvsp/Python3-reference/tree/master/Others)
     * [List Comprehension](https://github.com/rvsp/Python3-reference/tree/master/Others/list-comprehensive.py)
+    * [Math module](https://github.com/rvsp/Python3-reference/tree/master/Others/math-module.py)

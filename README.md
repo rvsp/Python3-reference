@@ -7,7 +7,7 @@
 5.  [Looping and Control Statements](https://github.com/rvsp/Python3-reference/blob/master/5_loops-control.py)
 6.  [Strings](https://github.com/rvsp/Python3-reference/blob/master/6_strings.py)
 7.  [List](https://github.com/rvsp/Python3-reference/blob/master/7_lists.py)
-8.  [Tuple]()
+8.  [Tuple](https://github.com/rvsp/Python3-reference/blob/master/8_tuples.py)
 9.  [Dictionary]()
 10. [Sets]()
 11. [Functions](https://github.com/rvsp/Python3-reference/tree/master/Functions)

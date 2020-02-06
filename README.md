@@ -6,7 +6,7 @@
 4.  [Conditional Statements](https://github.com/rvsp/Python3-reference/blob/master/4_conditional-statements.py)
 5.  [Looping and Control Statements](https://github.com/rvsp/Python3-reference/blob/master/5_loops-control.py)
 6.  [Strings](https://github.com/rvsp/Python3-reference/blob/master/6_strings.py)
-7.  [List and List Comprehension](https://github.com/rvsp/Python3-reference/tree/master/Lists)
+7.  [List](https://github.com/rvsp/Python3-reference/blob/master/7_lists.py)
 8.  [Tuple]()
 9.  [Dictionary]()
 10. [Sets]()
@@ -17,3 +17,4 @@
 15. [Regular Expressions]()
 16. [Files]()
 17. [Others](https://github.com/rvsp/Python3-reference/tree/master/Others)
+    * [List Comprehension](https://github.com/rvsp/Python3-reference/tree/master/Others)

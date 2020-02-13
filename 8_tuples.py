@@ -29,6 +29,6 @@ print(my_tuple)
 
 print(my_tuple.count('mouse'))
 
-a=inpput('Enter value'),
+a=input('Enter value'),
 print(a)
 print(type(a))

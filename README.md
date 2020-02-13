@@ -8,7 +8,7 @@
 6.  [Strings](https://github.com/rvsp/Python3-reference/blob/master/6_strings.py)
 7.  [List](https://github.com/rvsp/Python3-reference/blob/master/7_lists.py)
 8.  [Tuple](https://github.com/rvsp/Python3-reference/blob/master/8_tuples.py)
-9.  [Dictionary]()
+9.  [Dictionary](https://github.com/rvsp/Python3-reference/blob/master/9_dictonary.py)
 10. [Sets]()
 11. [Functions](https://github.com/rvsp/Python3-reference/tree/master/Functions)
 12. [Built-in Functions](https://github.com/rvsp/Python3-reference/blob/master/Advanced/built-in-functions.py)

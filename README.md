@@ -11,7 +11,7 @@
 9.  [Dictionary](https://github.com/rvsp/Python3-reference/blob/master/9_dictonary.py)
 10. [Sets](https://github.com/rvsp/Python3-reference/blob/master/10_sets.py)
 11. [Functions](https://github.com/rvsp/Python3-reference/tree/master/Functions)
-    * [Built-in Functions](https://github.com/rvsp/Python3-reference/blob/master/Advanced/built-in-functions.py)
+    * [Built-in Functions](https://github.com/rvsp/Python3-reference/blob/master/Functions/built-in-functions.py)
 12. [Exceptions](https://github.com/rvsp/Python3-reference/blob/master/Advanced/exceptions.py)
 13. [Class and Objects]()
 14. [Regular Expressions]()

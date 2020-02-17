@@ -4,9 +4,9 @@ Topic: Built-In Functions
 '''
 
 '''
-abs()	        returns absolute value of a number
-bin()	        converts integer to binary string
-chr()	        Returns a Character (a string) from an Integer
+abs()	          returns absolute value of a number
+bin()	          converts integer to binary string
+chr()	          Returns a Character (a string) from an Integer
 complex()       Creates a Complex Number
 dir()           Tries to Return Attributes of Object
 divmod()        Returns a Tuple of Quotient and Remainder
@@ -15,13 +15,13 @@ eval()	        Runs Code Within Program
 filter()        constructs iterator from elements which are true
 format()        returns formatted representation of a value
 hash()          returns hash value of an object
-hex()	        Converts to Integer to Hexadecimal
+hex()	          Converts to Integer to Hexadecimal
 iter()	        returns an iterator
 next()	        Retrieves next item from the iterator
-map()	        Applies Function and Returns a List
-oct()	        returns the octal representation of an integer
-ord()	        returns an integer of the Unicode character
-pow()	        returns the power of a number
+map()	          Applies Function and Returns a List
+oct()	          returns the octal representation of an integer
+ord()	          returns an integer of the Unicode character
+pow()	          returns the power of a number
 reversed()      returns the reversed iterator of a sequence
 round()         rounds a number to specified decimals
 slice()         returns a slice object

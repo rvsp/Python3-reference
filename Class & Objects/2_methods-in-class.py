@@ -24,3 +24,4 @@ blu = Parrot("Blu", 10)
 # call our instance methods
 print(blu.sing("'Happy'"))
 print(blu.dance())
+print(blu.__dict__)

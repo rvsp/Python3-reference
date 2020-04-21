@@ -10,6 +10,7 @@ OOP Principles:
 Inheritance     - A process of using details from a new class without modifying existing class.
 Encapsulation   - Hiding the private details of a class from other objects.
 Polymorphism    - A concept of using common operation in different ways for different data input.
+Abstraction     - Both are nearly synonym because data abstraction is achieved through encapsulation.
 '''
 
 # 1) Creating Class and Object in Python

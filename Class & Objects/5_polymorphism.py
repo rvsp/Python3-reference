@@ -20,13 +20,19 @@ class Penguin:
         print("Penguin can swim")
 
 # common interface
-def flying_test(bird):
-    bird.fly()
+def flying_test(t):
+    t.fly()
+
+def swim_test(t):
+    t.swim()
 
 #instantiate objects
 blu = Parrot()
 peggy = Penguin()
+blu1 = Parrot()
 
 # passing the object
 flying_test(blu)
 flying_test(peggy)
+swim_test(peggy)
+swim_test(blu1)
